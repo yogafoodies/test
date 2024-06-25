@@ -66,9 +66,7 @@
 			"tag": "ssh-out",
 			"server": "151.145.33.89",
 			"server_port": 22,
-			"user": "opc",
-			"private_key_path": "$HOME/.ssh/authorized_keys",
-			"host_key": ""},
+			"user": "opc","private_key_path": "$HOME/.ssh/authorized_keys","host_key": ""},
 		{
 			"type": "direct",
 			"tag": "direct-out"
