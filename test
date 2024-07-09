@@ -25,7 +25,7 @@
     {
       "type": "shadowsocks",
       "method": "2022-blake3-aes-128-gcm",
-      "password": "==",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
       "detour": "shadowtls-out",
       "multiplex": {
         "enabled": true,
